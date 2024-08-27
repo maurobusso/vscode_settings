@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.sideBar.location": "left",
+    "workbench.statusBar.visible": false,
+    "workbench.tree.enableStickyScroll": true,
+    "breadcrumbs.enabled": false
+}
