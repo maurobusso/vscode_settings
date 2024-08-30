@@ -1,15 +1,24 @@
 {
-    "workbench.colorTheme": "Visual Studio Dark",
-    "workbench.preferredHighContrastColorTheme": "Default High Contrast",
-    "workbench.iconTheme": "vscode-icons",
-    "workbench.sideBar.location": "left",
-    "workbench.statusBar.visible": false,
-    "workbench.tree.enableStickyScroll": true,
-    "breadcrumbs.enabled": false,
-    -- mac settings
-    "editor.linkedEditing": true,
-    "explorer.confirmDelete": false,
-    "editor.minimap.enabled": false,
-    "workbench.startupEditor": "none",
-    "breadcrumbs.enabled": false
+  "breadcrumbs.enabled": false,
+  "editor.formatOnSave": true,
+  "workbench.preferredHighContrastColorTheme": "Default High Contrast",
+  "workbench.iconTheme": "vs-seti",
+  "editor.linkedEditing": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#64570b"
+  },
+  "files.trimTrailingWhitespace": true,
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.fontWeight": "normal",
+  "terminal.integrated.drawBoldTextInBrightColors": false,
+  "workbench.sideBar.location": "left"
 }
