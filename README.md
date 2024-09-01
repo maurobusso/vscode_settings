@@ -1,4 +1,3 @@
-
 ### This is a list of the extensions I use on my IDE.
 
 ```
@@ -10,12 +9,14 @@ styled-components.vscode-styled-components
 dbaeumer.vscode-eslint
 ms-python.python
 ms-python.debugpy
+formulahendry.auto-rename-tag
 ```
 
 For Bash (on Linux/macOS)
-run `xargs -I % code --install-extension % < extensions_list_file`
+To install all the extension create a .text file with the above list then run this command:
+`cat file_name.txt | xargs -L1 code --install-extension`
 
-### These is the list of personazied settings 
+### This is the list of personalized settings
 
 ```
 {
