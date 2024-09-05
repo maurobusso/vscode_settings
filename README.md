@@ -44,3 +44,14 @@ To install all the extension create a .text file with the above list then run th
   "workbench.sideBar.location": "left"
 }
 ```
+
+### ZSH plugins, these also need to be installed
+
+plugins=(
+    git
+    web-search
+    zsh-syntax-highlighting
+    zsh-autosuggestions
+    )
+
+
