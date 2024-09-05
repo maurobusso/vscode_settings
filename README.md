@@ -53,6 +53,6 @@ plugins=(
     web-search
     zsh-syntax-highlighting
     zsh-autosuggestions
-    )
+)
 ```
 
